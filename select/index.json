@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ツキノカメ",
+  "base_artist": "初星学園",
+  "createdAt": "2026-02-27T14:56:02.561566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツキノカメ",
+      "artist": "初星学園、ミフメイ、秦谷美鈴",
+      "has_synced": true,
+      "path": "select/01_ツキノカメ_初星学園、ミフメイ、秦谷美鈴.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツキノカメ",
+      "artist": "初星学園,ミフメイ,秦谷美鈴",
+      "has_synced": false,
+      "path": "select/pl_01_ツキノカメ_初星学園,ミフメイ,秦谷美鈴.txt"
+    }
+  ]
+}
